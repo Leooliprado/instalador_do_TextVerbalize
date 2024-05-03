@@ -1,0 +1,1 @@
+# instalador_do_TextVerbalize
